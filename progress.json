@@ -368,5 +368,14 @@
       "Branch 'feature-search' still exists! Remember to delete it after merging!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1787986206.452207,
+    "completed_at": 1787986212.592449,
+    "comments": [
+      "Branch 'feature-delete' still exists! Remember to delete it after merging!"
+    ],
+    "status": "Incomplete"
   }
 ]
