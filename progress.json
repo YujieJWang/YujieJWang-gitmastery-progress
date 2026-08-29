@@ -294,24 +294,5 @@
       "You have successfully undone the merge of branch 'others'."
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "branch-compare",
-    "started_at": 1787980969.46398,
-    "completed_at": 1787980973.796882,
-    "comments": [
-      "Cmd('git') failed due to: exit code(1)\n  cmdline: git checkout stream-1\n  stderr: 'error: Your local changes to the following files would be overwritten by checkout:\n\tdata.txt\nPlease commit your changes or stash them before you switch branches.\nAborting'"
-    ],
-    "status": "Error"
-  },
-  {
-    "exercise_name": "branch-compare",
-    "started_at": 1787981007.267568,
-    "completed_at": 1787981011.251496,
-    "comments": [
-      "Answer for Which numbers are present in stream-1 but not in stream-2? is empty.",
-      "Answer for Which numbers are present in stream-2 but not in stream-1? is empty."
-    ],
-    "status": "Incomplete"
   }
 ]
